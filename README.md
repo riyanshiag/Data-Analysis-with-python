@@ -5,7 +5,6 @@ The project contains 6 files each containing an exercise on Data Analysis.Each f
 Exercise 1:DATA SORTING AND FILTERING:
 
 i)Using pandas,we have created a dataframe object of the given dataset.
-
 ii)We are accessing diferent rows and columns of the dataframe.
 iii)Sorting the entire dataframe based on specific columns.
 iv)Filtering rows/columns based on letters/numbers in data of the columns.
