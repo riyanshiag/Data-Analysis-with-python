@@ -1,5 +1,5 @@
 # Data-Analysis-with-python
-The motive of the project is to implement various Data Analysis tools within python libraries-Pandas and Numpy.
+The motive of the project is to implement various Data Analytics tools within python libraries-Pandas and Numpy.
 The project contains 6 files each containing an exercise on Data Analysis.Each file has it's own dataset and is based on a different problem statement.
 
 Exercise 1:DATA SORTING AND FILTERING:
