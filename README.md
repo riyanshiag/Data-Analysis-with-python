@@ -3,24 +3,23 @@ Embark on a comprehensive journey into data analytics with Python, leveraging th
 
 **Exercise 1:Data Sorting and Filtering:**
 
-i)Using pandas,we have created a dataframe object of the given dataset.
-ii)We are accessing diferent rows and columns of the dataframe.
-iii)Sorting the entire dataframe based on specific columns.
-iv)Filtering rows/columns based on letters/numbers in data of the columns.
-v)Building another dataframes using selected columns.
-vi)Calculating mean values of specific columns.
+Dataset: Performance data related to all the teams participating in Euro Cup Football Tournment.
+1.Viewing selected Rows and columns
+2.Column based Data sorting.
+3.Row filtering based on a range of a column value.
 
-**Exercise 2:Data Grouping and Sorting:**
+**Exercise 2:Data Grouping:**
 
-In this exercise,we have used a dataset containing crime rates of US in 1960-70s.We have found the most dangerous decade on the basis of the categories of crime.
-1.Viewing and changing datatypes of columns.
+Dataset: Year wise US crime-rates between 1960-2014 for various categories of crimes such as Theft,Forcible_rape,Murder etc.
+Results:Finding the most dangerous decade on the basis of the categories of crime.
+1.Working with column datatypes.
 2.Changing indexes of columns.
-3.Decade wise grouping years and decade wise crime analysis.
+3.Decade wise grouping rows(years) and decade wise crime category analysis.
 
-**Exercise 3:Cleaning Datasets:**
+**Exercise 3:Merging DataFrames:**
 
-1.Adding/deleting columns
-2.Combining multiple dataframes.
+1.Addition & Deletion of columns
+2.Merging dataframes changing index.
 
 **Exercise 4:Dealing with Null Values:**
 
@@ -31,6 +30,6 @@ In this exercise,we have used a dataset containing crime rates of US in 1960-70s
 
 Changing data frequency to daily,montly and yearly for analysis.
 
-Bonus exercise:WORKING WITH OPENDATASETS:
+**Bonus exercise:WORKING WITH OPENDATASETS:**
 
 Exploratory analysis of the data to find the biggest video game producing franchise based on data provided by global sales.
