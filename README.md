@@ -4,9 +4,9 @@ Embark on a comprehensive journey into data analytics with Python, leveraging th
 **Exercise 1:Data Sorting and Filtering:**
 
 Dataset: Performance data related to all the teams participating in Euro Cup Football Tournment.
-1.Viewing selected Rows and columns
-2.Column based Data sorting.
-3.Row filtering based on a range of a column value.
+1.Viewing selected Rows and columns  
+2.Column based Data sorting.  
+3.Row filtering based on a range of a column value.  
 
 **Exercise 2:Data Grouping:**
 
