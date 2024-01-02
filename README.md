@@ -1,5 +1,5 @@
 # Data-Analysis-with-python
-Guided exercises for 6 different problem statements solving real-world data problems to come up with conclusions leveraging the powerful capabilities of Pandas and Numpy.
+Guided exercises for 6 different problem statements solving real-world data problems drawing conclusions by leveraging the powerful capabilities of Pandas and Numpy.
 
 **Exercise 1:Data Sorting and Filtering:**
 
